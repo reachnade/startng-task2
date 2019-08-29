@@ -1,0 +1,68 @@
+body {
+    /*background-color: blue;*/
+    /* color: pink; */
+    color: #000;
+    font: normal 24px serif, monospace;
+
+
+}
+
+.summary {
+    background-color: palevioletred;
+    color: #000;
+    font: 24px;
+}
+
+.experts {
+    background-color: pink;
+    /* font: 22px; */
+    /* color: mediumvioletred; */
+
+}
+
+.Q {
+    background-color: coral;
+    /* font: 24px; */
+    color: #000;
+
+}
+
+.N {
+    /* color: coral;
+    font: 22px; */
+    background-color: tomato;
+}
+
+.lme {
+    background-color: orange;
+    /* font: 12px arial, sans-serif; */
+    /* color: deeppink; */
+
+}
+
+.clme {
+    background-color: yellowgreen;
+    /* font-size: 12px; */
+    /* color: springgreen; */
+    font-family: serif;
+
+}
+
+.hobbies {
+    background-color: darkseagreen;
+    /* font-style: normal; */
+    /* color: orange; */
+    /* font-size: 18px; */
+    /* font-family: serif, sans-serif; */
+    font-weight: bold;
+
+}
+
+.hobbies1 {
+    background-color: gray;
+    font-style: italic;
+    /* color: yellow; */
+    /* font-size: 16px; */
+    font-family: arial;
+
+}
